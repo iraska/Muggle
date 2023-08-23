@@ -1,0 +1,65 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    width: auto;
+    height: 500px;
+    margin: auto;
+}
+.muggle-bar
+{
+    width: 37%;
+    margin: 20px auto;
+}
+.auto-bar
+{
+    width: 90%;
+}
+.left-bar
+{
+    width: 31%;
+    height: 60%;
+    float: left;
+    padding: 10px;
+    margin: 1px;
+}
+.color-grey
+{
+    background-color: #EEEEEE;
+}
+.color-blue1
+{
+    background-color: #7EE5DA;
+}
+.color-blue2
+{
+    background-color: #70CCC2;
+}
+.color-blue3
+{
+    background-color: #62B3AA;
+}
+.font-12
+{
+    font-size: 11px;;
+}
+.font-15
+{
+    font-size: 15.5px;;
+}
+.font-20
+{
+    font-size: 20.3px;;
+}
+/* 
+a:active{
+    color: aqua;
+}
+
+a#non-clicked:link
+{
+    color: blue;
+} */
